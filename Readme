@@ -1,0 +1,36 @@
+Contributors:
+Kundai Chasinda
+Maxine Beni
+Yvan Samunani
+Tona Daphin Mukomeza
+
+Kundai Chasinda worked on the Delete Appointment
+Maxine Beni worked on the Booking Appointment
+Yvan Samunani worked on the View Appointments
+Tona Daphin Mukomeza worked on the Update Appointment
+
+Installations of the program:
+The program uses the Tkinter GUI toolkit in the appointments.py file only.
+To run the program run the main.py file
+The program uses a relational database.
+So to run the program, install the Tkinter toolkit, XAMPP or MYSQL Workbench in order to connect the database to the python program
+
+Solutions
+Program’s Objectives
+The beneficiaries of this Program are citizens of Kigali since the hospitals listed there are hospitals found in Kigali only.
+
+A Hospital Appointment Booking System application that brings all the public hospitals in Kigali
+Patients are to book their appointments after seeing the available time slots at a particular hospital.
+If a patient cancels ahead of time, their time slot will be cleared for someone else to take it up.
+A patient can also update their appointment details, by selecting another timeslot only.
+The application’s real-time updating will reduce the waiting time patients spend at the hospitals and ensure that the patients can book their appointments ahead of time.
+  The benefits the Program brings to the community are:
+A streamlined workflow and practice management process
+Enhanced efficiency of healthcare professionals
+Faster patient-physician communication
+Minimalise congestion in healthcare facilities
+
+
+
+
+
